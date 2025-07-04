@@ -1,0 +1,6 @@
+# requirements.txt
+
+# No external libraries needed for basic scripts
+# If you add scripts that use libraries, list them here, e.g.:
+# requests==2.32.2
+# numpy==1.26.4
